@@ -204,7 +204,7 @@ git clone https://github.com/prateekjena-7/Pyhton-Essentials-Evaluated-Course-Pr
 ### 2. Open the project folder
 
 ```bash
-cd cd Pyhton-Essentials-Evaluated-Course-Project
+cd Pyhton-Essentials-Evaluated-Course-Project
 ```
 
 ### 3. Check Python installation
