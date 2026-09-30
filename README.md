@@ -198,7 +198,7 @@ Daily-Calorie-Calculator/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/prateekjena-7/Daily-Calorie-Calculator.git
+git clone https://github.com/prateekjena-7/Pyhton-Essentials-Evaluated-Course-Project.git
 ```
 
 ### 2. Open the project folder
